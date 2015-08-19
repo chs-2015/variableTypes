@@ -12,5 +12,5 @@
 hs_err_pid*
 
 # IDE Things
-*.jcp
+*.jc[puw]
 src_*
